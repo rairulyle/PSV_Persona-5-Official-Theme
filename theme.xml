@@ -2,7 +2,7 @@
 <InfomationBarProperty>
     <m_barColor>ff000000</m_barColor>
     <m_indicatorColor>ffeedfd0</m_indicatorColor>
-    <m_noticeFontColor>ffca0000</m_noticeFontColor>
+    <m_noticeFontColor>ffffffff</m_noticeFontColor>
     <m_noticeGlowColor>ffca0000</m_noticeGlowColor>
 	 <m_noNoticeFilePath>notices.png</m_noNoticeFilePath>
     <m_newNoticeFilePath>notice.png</m_newNoticeFilePath>
@@ -109,15 +109,15 @@
    <m_party>
      <m_iconFilePath>icon_party.png</m_iconFilePath>
    </m_party>
-   <m_power>
-     <m_iconFilePath>icon_power.png</m_iconFilePath>
-   </m_power>
    <m_ps3Link>
      <m_iconFilePath>icon_ps3link.png</m_iconFilePath>
    </m_ps3Link>
    <m_ps4Link>
      <m_iconFilePath>icon_ps4link.png</m_iconFilePath>
    </m_ps4Link>
+    <m_power>
+     <m_iconFilePath>icon_power.png</m_iconFilePath>
+   </m_power>
    <m_settings>
      <m_iconFilePath>icon_settings.png</m_iconFilePath>
    </m_settings>
@@ -127,15 +127,9 @@
    <m_video>
      <m_iconFilePath>icon_videos.png</m_iconFilePath>
    </m_video>
-   <m_maps> <!--test-->
-     <m_iconFilePath>icon_maps.png</m_iconFilePath>
-   </m_maps>
-   <m_store> <!--test-->
-     <m_iconFilePath>icon_store.png</m_iconFilePath>
-   </m_store>
  </HomeProperty>
  <InfomationProperty>
-   <m_contentVer>03.15</m_contentVer>
+   <m_contentVer>03.16</m_contentVer>
    <m_homePreviewFilePath>preview_page.png</m_homePreviewFilePath>
    <m_packageImageFilePath>preview_thumbnail.png</m_packageImageFilePath>
    <m_provider>
