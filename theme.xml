@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><theme format-ver="01.00" package="0">
+<InfomationBarProperty>
+    <m_barColor>ff000000</m_barColor>
+    <m_indicatorColor>ffeedfd0</m_indicatorColor>
+    <m_noticeFontColor>ffca0000</m_noticeFontColor>
+    <m_noticeGlowColor>ffca0000</m_noticeGlowColor>
+	 <m_noNoticeFilePath>notices.png</m_noNoticeFilePath>
+    <m_newNoticeFilePath>notice.png</m_newNoticeFilePath>
+  </InfomationBarProperty>
+ <HomeProperty>
+	<m_bgParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt1.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg1.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt2.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg2.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt3.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg3.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt4.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg4.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt5.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg5.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt6.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg6.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt7.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg7.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt8.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg8.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	  <BackgroundParam>
+		<m_thumbnailFilePath>bgt9.png</m_thumbnailFilePath>
+		<m_imageFilePath>bg9.png</m_imageFilePath>
+		<m_waveType>5</m_waveType>
+		<m_fontColor>ffffffff</m_fontColor>
+		<m_fontShadow>1</m_fontShadow>
+	  </BackgroundParam>
+	</m_bgParam>
+   <m_basePageFilePath>basePage.png</m_basePageFilePath>
+   <m_curPageFilePath>curPage.png</m_curPageFilePath>
+   <m_bgmFilePath>BGM.at9</m_bgmFilePath>
+   <m_browser>
+     <m_iconFilePath>icon_web.png</m_iconFilePath>
+   </m_browser>
+   <m_calendar>
+     <m_iconFilePath>icon_calendar.png</m_iconFilePath>
+   </m_calendar>
+   <m_camera>
+     <m_iconFilePath>icon_photos.png</m_iconFilePath>
+   </m_camera>
+   <m_email>
+     <m_iconFilePath>icon_mail.png</m_iconFilePath>
+   </m_email>
+   <m_friend>
+     <m_iconFilePath>icon_friends.png</m_iconFilePath>
+   </m_friend>
+   <m_hostCollabo>
+     <m_iconFilePath>icon_cma.png</m_iconFilePath>
+   </m_hostCollabo>
+   <m_message>
+     <m_iconFilePath>icon_messages.png</m_iconFilePath>
+   </m_message>
+   <m_music>
+     <m_iconFilePath>icon_music.png</m_iconFilePath>
+   </m_music>
+   <m_near>
+     <m_iconFilePath>icon_near.png</m_iconFilePath>
+   </m_near>
+   <m_parental>
+     <m_iconFilePath>icon_parental.png</m_iconFilePath>
+   </m_parental>
+   <m_party>
+     <m_iconFilePath>icon_party.png</m_iconFilePath>
+   </m_party>
+   <m_power>
+     <m_iconFilePath>icon_power.png</m_iconFilePath>
+   </m_power>
+   <m_ps3Link>
+     <m_iconFilePath>icon_ps3link.png</m_iconFilePath>
+   </m_ps3Link>
+   <m_ps4Link>
+     <m_iconFilePath>icon_ps4link.png</m_iconFilePath>
+   </m_ps4Link>
+   <m_settings>
+     <m_iconFilePath>icon_settings.png</m_iconFilePath>
+   </m_settings>
+   <m_trophy>
+     <m_iconFilePath>icon_trophies.png</m_iconFilePath>
+   </m_trophy>
+   <m_video>
+     <m_iconFilePath>icon_videos.png</m_iconFilePath>
+   </m_video>
+   <m_maps> <!--test-->
+     <m_iconFilePath>icon_maps.png</m_iconFilePath>
+   </m_maps>
+   <m_store> <!--test-->
+     <m_iconFilePath>icon_store.png</m_iconFilePath>
+   </m_store>
+ </HomeProperty>
+ <InfomationProperty>
+   <m_contentVer>03.15</m_contentVer>
+   <m_homePreviewFilePath>preview_page.png</m_homePreviewFilePath>
+   <m_packageImageFilePath>preview_thumbnail.png</m_packageImageFilePath>
+   <m_provider>
+     <m_default>Skullpluggery</m_default>
+     <m_param></m_param>
+   </m_provider>
+   <m_startPreviewFilePath>preview_lockscreen.png</m_startPreviewFilePath>
+   <m_title>
+     <m_default>Persona 5 Official Theme</m_default>
+     <m_param>
+       <m_da>Persona 5 Official Theme</m_da>
+       <m_de>Persona 5 Official Theme</m_de>
+       <m_es>Persona 5 Official Theme</m_es>
+       <m_fi>Persona 5 Official Theme</m_fi>
+       <m_fr>Persona 5 Official Theme</m_fr>
+       <m_it>Persona 5 Official Theme</m_it>
+       <m_nl>Persona 5 Official Theme</m_nl>
+       <m_no>Persona 5 Official Theme</m_no>
+       <m_pl>Persona 5 Official Theme</m_pl>
+       <m_pt>Persona 5 Official Theme</m_pt>
+       <m_ru>Persona 5 Official Theme</m_ru>
+       <m_sv>Persona 5 Official Theme</m_sv>
+     </m_param>
+   </m_title>
+ </InfomationProperty>
+ <StartScreenProperty>
+   <m_dateColor>ffffffff</m_dateColor>
+   <m_dateLayout>2</m_dateLayout>
+   <m_filePath>lockpaper.png</m_filePath>
+   <m_notifyBgColor>1fffffff</m_notifyBgColor>
+   <m_notifyBorderColor>ffcccccc</m_notifyBorderColor>
+   <m_notifyFontColor>ffffffff</m_notifyFontColor>
+ </StartScreenProperty>
+</theme>
