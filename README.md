@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://i.imgur.com/GQFcga8.png"/>
+  <h4>Home Screen Preview</h4>
+  <img src="https://i.imgur.com/KnZrtVy.png"/>
+  <h4>Lock Screen Preview</h4>
+</p>
+
 # PS Vita: Persona 5 Custom Theme
 A theme based on the Persona 5 Official Theme with new colors, icons, bug-fixes and improvements.
 
