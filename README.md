@@ -16,7 +16,7 @@ A theme based on the Persona 5 Official Theme with new colors, icons, bug-fixes 
 
 Tutorial: http://psv.altervista.org/index.php#tutorials
 
-Theme Download: http://psv.altervista.org/theme.php?id=1521459131
+Theme Download: https://psvt.ovh/theme.php?id=1521459131
 
 ## Donation
 If you like my work and want to support future projects, you can make a small donation with Paypal: 
